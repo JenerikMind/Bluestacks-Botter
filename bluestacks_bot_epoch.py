@@ -1,5 +1,4 @@
 ### window focused bot for bluestacks ###
-from bluestacks_bot_timing import *
 import pyautogui
 import random
 import time
